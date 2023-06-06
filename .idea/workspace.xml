@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/5_Logical and Comparison Operators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Arithmatic Operation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/2_Arithmatic Operation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4_Strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VolOfSphere.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3_VolOfSphere.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +74,26 @@
       <option name="project" value="LOCAL" />
       <updated>1683624727301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Commit">
+      <created>1683625692069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683625692069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
