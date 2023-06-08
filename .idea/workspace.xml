@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="Second Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/6_StringPallindrome.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/7_Null values and user input.kt" afterDir="false" />
+    <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="my Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8_Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/HW_print elements in rev order.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/adding elements at runtime.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/list_intro.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/store fibo series in list.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/Average_of_numbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/For_loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/HomeWork1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/HomeWork2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/Sum_of_array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/WhileLoops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +51,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kotlin\KotlinTutorial\src\main\kotlin\9_loops" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686074673937</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="my Commit">
+      <created>1686078585817</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686078585817</updated>
+    </task>
+    <task id="LOCAL-00008" summary="my Commit">
+      <created>1686078607560</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686078607560</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="my Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="my Commit" />
   </component>
 </project>
