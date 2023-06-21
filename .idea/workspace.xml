@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="my Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_11When/HW.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_11When/When.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_12_FunctionsAndparameters/HW.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_12_FunctionsAndparameters/functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_12_FunctionsAndparameters/Extension_Functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_12_FunctionsAndparameters/Linear_Search.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_13_Vararg_Default_NamedParameters/Default_parameters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_13_Vararg_Default_NamedParameters/HW_alternatingSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_13_Vararg_Default_NamedParameters/vararg.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/1_Tutorial.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1Tutorial.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2_Arithmatic Operation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_2Arithmatic Operation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3_VolOfSphere.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_3VolOfSphere.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4_Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_4Strings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/5_Logical and Comparison Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_5Logical and Comparison Operators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/6_StringPallindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_6StringPallindrome.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/7_Null values and user input.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_7Null values and user input.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/8_Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_8Arrays.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java Programming Language&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaProgrammingLanguage&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -132,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686221133920</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="my Commit">
+      <created>1686478745325</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686478745325</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
