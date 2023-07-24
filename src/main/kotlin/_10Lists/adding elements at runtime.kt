@@ -1,4 +1,4 @@
-package `_10 Lists`
+package _10Lists
 
 fun main(){
     val list = mutableListOf<Int>()

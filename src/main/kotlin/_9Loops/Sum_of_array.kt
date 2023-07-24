@@ -1,4 +1,4 @@
-package `_9 Loops`
+package _9Loops
 
 fun main(){
     var arr = arrayOf(1,2,3,4,5,6)

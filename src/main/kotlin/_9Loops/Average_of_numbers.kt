@@ -1,4 +1,4 @@
-package `_9 Loops`
+package _9Loops
 
 fun main(){
     var avg=0.0
@@ -13,7 +13,8 @@ fun main(){
     print("Enter number 5: ")
     val num5 = readLine()?.toInt()
     if(num1 != null && num2 != null && num3 != null && num4 != null && num5 != null ){
-         avg = (num1+num2+num3+num4+num5)/5.0
+        avg = (num1 + num2 + num3 + num4 + num5) / 5.0
+
     }
     print("Average = $avg")
 

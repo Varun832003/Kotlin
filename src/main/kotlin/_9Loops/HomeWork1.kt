@@ -1,4 +1,4 @@
-package `_9 Loops`
+package _9Loops
 
 fun main(){
     print("Enter a number: ")

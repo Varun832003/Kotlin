@@ -1,8 +1,8 @@
-package `_10 Lists`
+package _10Lists
 
 fun main(){
     val array = arrayOf(1,2,3,4) // arrays are mutable
-    val list = listOf(1,2,3)// list us immutable
+    val list = listOf(1,2,3)// list are immutable
 
     array[0] = 3 // valid
    // list[0] = 3 --> invalid
