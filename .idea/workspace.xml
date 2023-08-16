@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="Commit 21June">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_14_Classes/HW_Triangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_14_Classes/Recangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_14_Classes/Rectangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_14_Classes/Triangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_15_Inheritance/Shape.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_16_AbstractClasses/Rec.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_16_AbstractClasses/Rectangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_16_AbstractClasses/Shape.kt" afterDir="false" />
+    <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="Revision commit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_12_FunctionsAndparameters/Exten_func_hw.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/HW_print elements in rev order.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_10Lists/HW_print elements in rev order.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/adding elements at runtime.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_10Lists/adding elements at runtime.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/list_intro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_10Lists/list_intro.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_10 Lists/store fibo series in list.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_10Lists/store fibo series in list.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/Average_of_numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_9Loops/Average_of_numbers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/For_loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_9Loops/For_loop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/HomeWork1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_9Loops/HomeWork1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/HomeWork2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_9Loops/HomeWork2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/Sum_of_array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_9Loops/Sum_of_array.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_9 Loops/WhileLoops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_9Loops/WhileLoops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_3VolOfSphere.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_3VolOfSphere.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_9Loops/For_loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_9Loops/For_loop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687354642170</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Revision commit">
+      <option name="closed" value="true" />
+      <created>1690224188247</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690224188247</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +167,7 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="my Commit" />
     <MESSAGE value="Commit 21June" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 21June" />
+    <MESSAGE value="Revision commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision commit" />
   </component>
 </project>

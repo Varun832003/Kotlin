@@ -7,7 +7,7 @@ fun main(){
     }
     println()
     // OR
-    for(i in 1..5){
+    for(i in 1..5 ){
         println(i)
     }
     println()
@@ -19,5 +19,7 @@ fun main(){
     for(i in 'a'..'z'){
         print(i)
     }
+    println()
+
 }
 
