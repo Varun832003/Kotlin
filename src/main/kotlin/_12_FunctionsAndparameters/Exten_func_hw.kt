@@ -1,5 +1,12 @@
 package _12_FunctionsAndparameters
 
+fun List<Int>.product():Int{
+    var product = 1
+    for (i in this){
+        product *= i
+    }
+    return product
+}
 fun main(){
     val list = mutableListOf<Int>()
     println("Enter the value of n: ")
@@ -11,10 +18,6 @@ fun main(){
         readlnOrNull()?.toInt()?.let { list.add(it) }
     }
     }
-    var product = 1
-    for(i in list){
-        product *= i
-    }
-    println("The product of $list is $product")
+    println("The product of $list is ${list.product()}")
 
 }

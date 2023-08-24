@@ -1,6 +1,6 @@
 package _14_Classes
 
-import _15_Inheritance.Shape
+import _16_AbstractClasses.Shape
 import kotlin.math.sqrt
 
 class Triangle(
@@ -12,7 +12,7 @@ class Triangle(
     init {
         println("$name created with a = $a, b = $b and c = $c")
     }
-    fun perimeter() = a+b+c
+    override fun perimeter() = a+b+c
 
-    fun area() = sqrt(s*(s-a)*(s-b)*(s-c))
+    override fun area() = sqrt(s*(s-a)*(s-b)*(s-c))
 }
