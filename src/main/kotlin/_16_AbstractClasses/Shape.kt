@@ -1,8 +1,13 @@
 package _16_AbstractClasses
 
+import java.awt.Dimension
+
 abstract class Shape( // We can not create instance/Object of Abstract Class--> main utility of abstract class
     var name: String
 ) {
+
+    // Created constructor to demonstrate application of anonymous classes
+    constructor(name: String, vararg dimension: Double): this(name)
     init {
         println("I am the super class!")
     }

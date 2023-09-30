@@ -1,3 +1,5 @@
+package _1_Basics
+
 fun main(){
     val myArray1 = arrayOf(1,2,3,4,5)
     val myArray2 = arrayOf("Hello","world")

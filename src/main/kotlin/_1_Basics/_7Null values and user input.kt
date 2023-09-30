@@ -1,3 +1,5 @@
+package _1_Basics
+
 fun main(){
     val userInput = readLine()
     println(userInput?.toUpperCase())

@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="Revision commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_14_Classes/Circle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_17_Function_Overloading/HW_print_alternate.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_17_Function_Overloading/func_overloading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_18_Object_and_CompanionObject/ImportantNumbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_18_Object_and_CompanionObject/Sphere.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_18_Object_and_CompanionObject/_sphere.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="23e5e041-bc0c-4ab4-bb47-442649428241" name="Changes" comment="Till objects and companion objects">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_19_Anonymous_Classes/Explanation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_19_Anonymous_Classes/parallelogram.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_20_Exceptions/Exceptions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_21_Lambda_Functions/1_lambdaFunc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/_21_Lambda_Functions/2_custom_lamdaFunc.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_12_FunctionsAndparameters/Exten_func_hw.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_12_FunctionsAndparameters/Exten_func_hw.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_14_Classes/Triangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_14_Classes/Triangle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_16_AbstractClasses/Rectangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_16_AbstractClasses/Rectangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_16_AbstractClasses/Shape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_16_AbstractClasses/Shape.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_1Tutorial.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_1Tutorial.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_2Arithmatic Operation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_2Arithmatic Operation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_3VolOfSphere.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_3VolOfSphere.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_4Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_4Strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_5Logical and Comparison Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_5Logical and Comparison Operators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_6StringPallindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_6StringPallindrome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_7Null values and user input.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_7Null values and user input.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_8Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_1_Basics/_8Arrays.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +62,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kotlin\KotlinTutorial\src\main\kotlin\_1_Basics" />
       <recent name="D:\Kotlin\KotlinTutorial\src\main\kotlin\_11When" />
       <recent name="D:\Kotlin\KotlinTutorial\src\main\kotlin\9_loops" />
     </key>
@@ -167,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692216910122</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Till objects and companion objects">
+      <option name="closed" value="true" />
+      <created>1692865669862</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692865669864</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +200,7 @@
     <MESSAGE value="my Commit" />
     <MESSAGE value="Commit 21June" />
     <MESSAGE value="Revision commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revision commit" />
+    <MESSAGE value="Till objects and companion objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Till objects and companion objects" />
   </component>
 </project>
